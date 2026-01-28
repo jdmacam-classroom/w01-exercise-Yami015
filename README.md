@@ -8,17 +8,10 @@
 Put here the description and general instructions of the exercise.
 
 ## Files Structure
-```
-main-branch 
-|_ folder1 
-  |_ project.py
-  |_ code.py
-|_ folder2
-  |_ report.pdf 
-```
+PortfolioStater.html
 
 ## Challenges Encountered
-Narrate all the challenges you've encountered during development
+I have a little background about html and sometimes I forgot some tables etc. so I look in w3school.
 
 ## Key Takeaways
-List down your valuable learnings from doing this task.
+We learn the basics and some terms of html with Jer and we use W3School for some that we don't know yet.
